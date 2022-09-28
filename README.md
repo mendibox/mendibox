@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mendibox
+- 👀 I’m interested in space, science, books and basketball.
+- 🌱 I’m currently learning front-end technologies such as HTML, CSS and JavaScript.
+- 💞️ I’m looking to collaborate on begginer-friendly projects.
