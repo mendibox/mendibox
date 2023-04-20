@@ -6,4 +6,4 @@ As an aspiring developer, I've been learning the front-end basic technologies in
 - [FreeCodeCamp](https://www.freecodecamp.org/mendibox)
 - [W3Schools](https://www.w3profile.com/mendibox)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/mendibox)
-- [Platzi] (https://platzi.com/p/mendibox/)
+- [Platzi](https://platzi.com/p/mendibox/)
