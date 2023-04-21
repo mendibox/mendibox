@@ -14,6 +14,6 @@ As an aspirin software developer, I do understand the importance to keep learnin
 
 ### Programming languages
 
-[![anchor](<img src="./images/cpp.svg" width="60px" height="60px" />)](./c%2B%2B.md)
+[![c logo](./images/cpp.svg)](./c%2B%2B.md)
 
-<img src="./images/java.svg" width="60px" height="60px" />
+![java logo](./images/java.svg "Click to see more")
