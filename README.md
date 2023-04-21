@@ -7,3 +7,9 @@ As an aspiring developer, I've been learning the front-end basic technologies in
 - [W3Schools](https://www.w3profile.com/mendibox)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/mendibox)
 - [Platzi](https://platzi.com/p/mendibox/)
+
+## Continuous learning
+As an aspirin software developer, I do understand the importance to keep learning different tools, programming languages, frameworks, etc. In this section you can see what I've learned so far.
+
+### Current
+![The C++ programming language logo](./images/cpp.svg)
