@@ -12,6 +12,6 @@ As an aspiring developer, I've been learning the front-end basic technologies in
 
 As an aspirin software developer, I do understand the importance to keep learning different tools, programming languages, frameworks, etc. In this section you can see what I've learned so far.
 
-### Current
+### Programming languages
 
-<img src="./images/cpp.svg" width="60px" height="60px" />
+ <img src="./images/cpp.svg" width="60px" height="60px" /> <img src="./images/java.svg" width="60px" height="60px" />
