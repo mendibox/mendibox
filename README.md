@@ -14,11 +14,11 @@ As an aspirin software developer, I do understand the importance to keep learnin
 
 ### Programming languages
 
-[![c logo](./images/cpp.svg)](./cpp.md "Click to see more details")[![java logo](./images/java.svg)](./java.md "Click to see more details")[![javascript logo](./images/javascript.svg)](./javascript.md "Click to see more details")
+[![c logo](./images/cpp.svg)](./cpp.md "Click to see more details") [![java logo](./images/java.svg)](./java.md "Click to see more details")[![javascript logo](./images/javascript.svg)](./javascript.md "Click to see more details")
 
 ### Markup languages
 
 [![html logo](./images/html.svg)](./html.md "Click to see more details")[![markdown logo](./images/markdown.svg)](./markdown.md "Click to see more details")
 
 ### Styling
-[![css logo](./images/css.svg)](./css.md "Click to see more details")[![sass logo](./images/sass.svg)](./sass.md "Click to see more details")
+[![css logo](./images/css.svg)](./css.md "Click to see more details") [![sass logo](./images/sass.svg)](./sass.md "Click to see more details")
