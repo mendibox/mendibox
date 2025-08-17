@@ -1,12 +1,22 @@
 [![wakatime](https://wakatime.com/badge/user/c1707548-af66-44d3-bcc1-28f0c83893c0.svg)](https://wakatime.com/@c1707548-af66-44d3-bcc1-28f0c83893c0)
 
 Hello there! I’m Juan Luis, a junior frontend web developer looking for my fist opportunity to collaborate in a company where I can contribute and keep growing as a professional.
-As an aspiring developer, I've been learning the front-end basic technologies in order to improve my tech skills and be hired by a company in the development industry. So far, I've taken several courses and tutorials for this purpose, for instance:
+As an aspiring developer, I've been learning the front-end basic technologies in order to improve my tech skills and be hired by a company in the development industry.
 
+## Courses and certificates
 - [FreeCodeCamp](https://www.freecodecamp.org/mendibox)
-- [W3Schools](https://www.w3profile.com/mendibox)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/mendibox)
 - [Platzi](https://platzi.com/p/mendibox/)
+<!--- [W3Schools](https://www.w3profile.com/mendibox)-->
+
+## Projects
+- [Frontend Mentor](https://www.frontendmentor.io/profile/mendibox)
+
+<!--## Coding challenges
+- HackerRank
+- Codewars
+- Beecrowd
+- LeetCode
+-->
 
 ## Continuous learning
 
@@ -22,3 +32,6 @@ As an aspirin software developer, I do understand the importance to keep learnin
 
 ### Styling
 [![css logo](./images/css.svg)](./css.md "Click to see more details") [![sass logo](./images/sass.svg)](./sass.md "Click to see more details")
+
+## Extra
+- The BEM methodology
