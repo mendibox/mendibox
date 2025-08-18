@@ -33,5 +33,10 @@ As an aspirin software developer, I do understand the importance to keep learnin
 ### Styling
 [![css logo](./images/css.svg)](./css.md "Click to see more details") [![sass logo](./images/sass.svg)](./sass.md "Click to see more details")
 
+## Tools
+- Visual Studio Code
+- Eclipse
+- Linux shell
+
 ## Extra
 - The BEM methodology
