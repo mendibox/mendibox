@@ -38,5 +38,5 @@ As an aspirin software developer, I do understand the importance to keep learnin
 - Eclipse
 - Linux shell
 
-## Extra
+## Other
 - The BEM methodology
