@@ -1,5 +1,52 @@
 # The JavaScript programming language
 
-I'am currently learning this powerful and popular language.
+## Basic
 
-## Syllabus
+- The console.log() method
+- Variables
+  - Naming convention
+  - Scope
+  - Best practices
+- Data types
+  - Primitive
+  - Non-primitive
+- Mathematical operators
+  - Arithmetic operators
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Modulus
+    - Exponentiation
+  - Comparison operators
+    - Equal (loose equality)
+    - Strict equal (strict equality)
+    - Not equal (loose inequality)
+    - Strict inequality (strict inequality)
+    - Greater than
+    - Less than
+    - Greater than or equal
+    - Less than or equal
+  - Logical operators
+    - And
+    - Or
+    - Not
+  - Assignment operators
+    - Assignment
+    - Addition assignment
+    - Subtraction assignment
+- Strings
+  - Escape sequences
+  - Concatenation
+  - Literal templates
+- Control structures
+  - Conditionals
+    - The switch statement
+    - The if statement
+    - Ternary operator
+  - Loops
+    - For
+    - For of
+    - While 
+    - Do while
+    - Try-Catch
